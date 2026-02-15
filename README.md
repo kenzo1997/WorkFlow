@@ -1,15 +1,15 @@
-# WorkFlow ⚡
+# WorkFlow 
 
 A beautiful, cross-platform time tracking app built with React Native and Expo. Track your work sessions, manage projects, and analyze your productivity with a sleek, modern interface.
 
 ## Features
 
-- ⏱️ **Smart Timer** - Start, pause, and track work sessions with precision
-- 📊 **Project Management** - Organize your time across different projects
-- 📈 **History & Analytics** - Review past sessions and track productivity trends
-- 🎨 **Beautiful UI** - Modern design with dark theme and smooth animations
-- 🔐 **Authentication** - Secure login powered by Supabase
-- 📱 **Cross-Platform** - Works on iOS, Android, and Web
+-  **Smart Timer** - Start, pause, and track work sessions with precision
+-  **Project Management** - Organize your time across different projects
+-  **History & Analytics** - Review past sessions and track productivity trends
+-  **Beautiful UI** - Modern design with dark theme and smooth animations
+-  **Authentication** - Secure login powered by Supabase
+-  **Cross-Platform** - Works on iOS, Android, and Web
 
 ## Tech Stack
 
@@ -270,4 +270,4 @@ For support, email your-email@example.com or open an issue in the repository.
 
 ---
 
-**Made with ⚡ by [Your Name]**
+**Made with by Kenzo Coenaerts**
